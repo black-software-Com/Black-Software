@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome To Black-Software Page
+# Black-Software
+<hr>
 
-You can use the [editor on GitHub](https://github.com/black-software-Com/Black-Software/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Black Software is a software company
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can download and modify open source software
 
-### Markdown
+#### [Download](https://github.com/black-software-company)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+#### How can we change the software?
+- 1) Fork Github
+- 2) sending email
 
-# Header 1
-## Header 2
-### Header 3
+#### Support or Contact
 
-- Bulleted
-- List
+[Github](https://github.com/black-software-Com/Black-Software)
 
-1. Numbered
-2. List
+[Instagram](https://instagram.com/black_software_company)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+#### Gmail Address:
+``` txt
+gg1504722@gmail.com
+mrprogrammer2938@gmail.com
+blacksoftwarecompany3@gmail.com
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/black-software-Com/Black-Software/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<br>
