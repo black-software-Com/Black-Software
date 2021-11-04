@@ -1,8 +1,11 @@
+<center>
+
 ## Welcome To Black-Software Page
 # Black-Software
 
-[![Black-Software-logo (3)](https://user-images.githubusercontent.com/78996423/140314966-fca92f3e-f8a8-42b1-acc4-6bddbd6cddc1.jpeg)](https://github.com/black-software-Com)
+<img src='https://github.com/black-software-Com/Black-Software/blob/master/Scr/Black-Software-Logo.jpeg' width=100>
 
+</center>
 <hr>
 
 Black Software is a software company
