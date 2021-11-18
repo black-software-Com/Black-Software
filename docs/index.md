@@ -1,5 +1,3 @@
-<link rel='icon' href='https://github.com/black-software-Com/Black-Software/blob/master/Scr/Black-Software-Logo.jpeg'>
-
 <center>
 
 ## Welcome To Black-Software Page
