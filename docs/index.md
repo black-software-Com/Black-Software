@@ -37,6 +37,11 @@ Black-Webbrowser Is a search engine
 - 1) Fork Github
 - 2) sending email
 
+### About
+<p>
+Black-Software is a company in the field of software !
+</p>
+
 #### Support or Contact
 
 [Github](https://github.com/black-software-Com/Black-Software)
