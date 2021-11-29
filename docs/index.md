@@ -2,8 +2,8 @@
  
 <h1 style="text-align:center" title='Black-Software'> Black-Software </h1>
 
-<a href='https://github.com/black-software-Com/Black-Software' target='_blank'>
-<img style="text-align:center" src='https://github.com/black-software-Com/Black-Software/blob/master/Scr/Black-Software-Logo.jpeg' width=100>
+<a style="text-align:center" href='https://github.com/black-software-Com/Black-Software' target='_blank'>
+<img src='https://github.com/black-software-Com/Black-Software/blob/master/Scr/Black-Software-Logo.jpeg' width=100>
   </a>
 <hr>
 
