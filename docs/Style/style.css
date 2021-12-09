@@ -1,0 +1,59 @@
+/* Css Code */
+html,
+body {
+    height: 100%;
+    background-color: #000000;
+}
+
+ul {
+    list-style-type: none;
+    margin: 1;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+li {
+    float: left;
+}
+
+li,
+a {
+    display: block;
+    padding: 14px;
+    color: #d3d3d3;
+    text-align: center;
+    text-decoration: none;
+}
+
+li,
+a:hover {
+    color: #ffffff;
+    background-color: #111111;
+}
+
+h2.style1 {
+    text-align: center;
+    color: #008000;
+    font-size: 40px;
+}
+
+p.style1 {
+    text-align: center;
+    color: lightgreen;
+    font-size: 20px;
+}
+
+#textstyle {
+    color: #d3d3d3;
+    font-size: 16px;
+    text-align: center;
+}
+#cimg {
+    text-align: center;
+}
+footer {
+    text-align: center;
+    color: #808080;
+    padding: 1;
+}
