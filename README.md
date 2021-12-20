@@ -12,10 +12,29 @@ black software is a software company
 
 <br>
 
-### Contact Us
-#### [Instagram](https://instagram.com/black_software_company)
+### Black Sofwtare on Community Networks ⬛
+---
 
-#### [Black](https://github.com/mrprogrammer2938/Black-Webbrowser)
+[Github](https://github.com/black-software-com)
+
+[Instagram](https://instagram.com/black_software_company)
+
+[Facebook](https://www.facebook.com/profile.php?id=100076104841323)
+
+[Telegram](https://t.me/blacksoftware3)
+
+[twitter](https://twitter.com/blacksoftware3 )
+
+[YouTube](https://www.youtube.com/channel/UCJNgrVc2NvEuMkASBa5AzLg)
+
+[LinkedIn](https://www.linkedin.com/in/black-software-608425226/)
+
+[Pinterest](https://www.pinterest.com/blacksoftwarecompany3/_saved/)
+
+[Zlink](https://zil.ink/blacksoftware)
+
+---
+
 
 ##### [License](https://github.com/black-software-Com/Black-Webbrowser/blob/master/LICENSE)
 <br>
