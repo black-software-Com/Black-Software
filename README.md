@@ -4,9 +4,9 @@
 </a>
 <hr>
 
-<p>
-black software is a software company
-</p>
+<h2>
+Black Software is a Software Company
+</h2>
 
 ## [Projects](https://github.com/black-software-com)
 
