@@ -43,6 +43,7 @@ black software is a software company
 
 ``` txt 
 blacksoftwarecompany3@gmail.com
+blacksoftwares3@gmail.com
 mrprogrammer2938@gmail.com
 gg1504722@gmail.com
 ```
