@@ -24,3 +24,7 @@ menu_item.forEach((item) => {
         mobile_menu.classList.toggle('active');
     });
 });
+
+function run() {
+    alert("Black-Webbrowser v2.5 Coming Soon...");
+}
