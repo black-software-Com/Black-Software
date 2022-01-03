@@ -5,6 +5,10 @@
     box-sizing: border-box;
 }
 
+body {
+    height: 1000px;
+}
+
 html {
     font-size: 10px;
     font-family: 'Montserrat', sans-serif;
@@ -24,7 +28,7 @@ h1.style1:hover {
 }
 
 .container {
-    min-height: 85vh;
+    min-height: 100vh;
     /* min-height: 80px; */
     width: 100%;
     display: flex;
@@ -35,7 +39,6 @@ h1.style1:hover {
 
 .container2 {
     min-height: 30vh;
-    min-height: 80px;
     width: 100%;
     display: flex;
     /* display: block; */
@@ -56,6 +59,23 @@ p {
     line-height: 2.5rem;
     font-weight: 300;
     letter-spacing: 0.05rem;
+}
+
+button.style {
+    color: #008000;
+    border: 2px solid #008000;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 5px;
+    background-color: #29323c;
+    /* background-image: linear-gradient(60deg, #29323c 0%, #485563 100%); */
+}
+
+button.style:active,
+button.style:hover {
+    color: #111111;
+    background-color: #008000;
 }
 
 a.style {
@@ -115,9 +135,6 @@ a.style:active {
 .brand h1 span {
     color: lightgreen;
 }
-
-
-/* Header section */
 
 #header {
     position: fixed;
@@ -260,12 +277,6 @@ a.style:active {
     top: 0;
 }
 
-
-/* End Header section */
-
-
-/* Hero Section */
-
 #hero {
     background-image: url(./img/black-software-logo-.png);
     background-size: cover;
@@ -343,12 +354,6 @@ a.style:active {
     animation-delay: 2.5s;
 }
 
-
-/* End Hero Section */
-
-
-/* Services Section */
-
 #services .services {
     flex-direction: column;
     text-align: center;
@@ -413,12 +418,6 @@ a.style:active {
     color: white;
     text-align: left;
 }
-
-
-/* End Services Section */
-
-
-/* Projects section */
 
 #projects .projects {
     flex-direction: column;
@@ -502,12 +501,6 @@ a.style:active {
     transform: scale(1.1);
 }
 
-
-/* End Projects section */
-
-
-/* About Section */
-
 #about .about {
     flex-direction: column-reverse;
     text-align: center;
@@ -560,12 +553,6 @@ a.style:active {
     border: 7px solid crimson;
     z-index: -1;
 }
-
-
-/* End About Section */
-
-
-/* contact Section */
 
 #contact .contact {
     flex-direction: column;
@@ -697,12 +684,6 @@ a.style:active {
     }
 }
 
-
-/* End Keyframes */
-
-
-/* Media Query For Tablet */
-
 @media only screen and (min-width: 768px) {
     .cta {
         font-size: 2.5rem;
@@ -711,18 +692,13 @@ a.style:active {
     h1.section-title {
         font-size: 6rem;
     }
-    /* Hero */
     #hero h1 {
         font-size: 7rem;
     }
-    /* End Hero */
-    /* Services Section */
     #services .service-bottom .service-item {
         flex-basis: 45%;
         margin: 2.5%;
     }
-    /* End Services Section */
-    /* Project */
     #projects .project-item {
         flex-direction: row;
     }
@@ -741,8 +717,6 @@ a.style:active {
     #projects .all-projects .project-img {
         height: 100%;
     }
-    /* End Project */
-    /* About */
     #about .about {
         flex-direction: row;
     }
@@ -765,8 +739,6 @@ a.style:active {
     #about .col-right h1 {
         text-align: left;
     }
-    /* End About */
-    /* contact  */
     #contact .contact {
         flex-direction: column;
         padding: 100px 0;
@@ -798,17 +770,9 @@ a.style:active {
         text-align: left;
         padding-left: 20px;
     }
-    /* End contact  */
 }
 
-
-/* End Media Query For Tablet */
-
-
-/* Media Query For Desktop */
-
 @media only screen and (min-width: 1200px) {
-    /* header */
     #header .hamburger {
         display: none;
     }
@@ -828,9 +792,11 @@ a.style:active {
     #header .nav-list ul a:after {
         display: none;
     }
-    /* End header */
     #services .service-bottom .service-item {
         flex-basis: 22%;
         margin: 1.5%;
     }
 }
+
+
+/* © 2021- Black Software */
